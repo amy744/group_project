@@ -1,8 +1,28 @@
 body {
   padding-top: 5rem;
+  background-image: url("pinkback.jpg");
+  background-repeat: repeat-x;
+  text-align: center;
 }
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
-  background-image: url("sunset.jpg");
+
+}
+
+.lead {
+    font-size:40px;
+}
+
+.h1, h1 {
+    font-size: 55px;
+}
+
+.biggerSize{
+  font-size: 30px;
+  text-align: center;
+}
+
+.navbar{
+  font-size: 30px;
 }
